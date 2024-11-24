@@ -12,7 +12,6 @@ body{
     border-radius: 20px;
     overflow: hidden;
     max-width: 500px;
-    margin: 0;
 }
 #display{
     width: 100%;
