@@ -4,7 +4,7 @@ body{
     align-items: center;
     margin: 0;
     height: 100vh;
-    pading: 25px;
+    padding: 25px;
     background-image: linear-gradient(to bottom right, teal, rgb(0, 204, 255));
 }
 #container{
